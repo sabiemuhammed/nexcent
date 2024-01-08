@@ -1,0 +1,16 @@
+* {
+  margin:0;
+  padding:0;
+}
+:root {
+  --primary-color: #4CAF4F;
+  --secondary-color: Neutral/Silver;
+  --black-natural: #263238;
+  --white-natural:#F5F7FA
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color:var(--black-natural)
+}
+
